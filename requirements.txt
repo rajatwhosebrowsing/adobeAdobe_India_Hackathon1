@@ -1,0 +1,8 @@
+langchain
+langchain-ollama
+langchain-huggingface
+langchain-community
+faiss-cpu
+pypdf
+sentence-transformers
+pydantic==2.7.4 
